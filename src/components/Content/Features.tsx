@@ -108,16 +108,7 @@ export const Features = () => {
             transition={{ duration: 1 }}
             className="p-12 card bg-primary-content"
           >
-            <Clock10Icon className="mx-auto" size={32} />
-            <h3 className="mt-12 text-xl font-bold text-gray-900 font-pj">
-              Lorem ipsum dolor sit.
-            </h3>
-            <p className="mt-5 text-base text-gray-600 font-pj">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum facere animi veniam quia sint omnis natus molestiae provident nostrum soluta expedita vel, fuga voluptatum, cumque tempora nemo corporis nam ullam sequi dignissimos quo consequuntur non? Incidunt, libero commodi? Provident, voluptate?
-            </p>
-          </motion.div>
-
-          
+        
         </div>
       </div>
     </motion.section>
