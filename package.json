@@ -1,0 +1,43 @@
+{
+  "name": "ats-landing-page",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@vercel/analytics": "^1.2.2",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "framer-motion": "^11.0.6",
+    "lucide-react": "^0.446.0",
+    "next": "14.1.0",
+    "nodemailer": "^6.9.16",
+    "react": "^18",
+    "react-dom": "^18",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.12",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/tailwindcss": "^3.1.0",
+    "autoprefixer": "^10.0.1",
+    "daisyui": "^4.12.10",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.7.2"
+  },
+  "description": "<div align=\"center\">",
+  "main": "postcss.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
